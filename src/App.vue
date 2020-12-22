@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>安师gis</h1>
+    <h1>kk</h1>
     <router-view />
   </div>
 </template>
